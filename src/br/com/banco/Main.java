@@ -201,7 +201,7 @@ public class Main {
         }
     }
 
-    static void main(String[] args) {
+    static void main() {
         Banco banco = new Banco();
         while (true) {
             System.out.println("=== MENU PRINCIPAL ===");
